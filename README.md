@@ -7,9 +7,12 @@ Interested in kernel.
 Languages: `C` `C++` `Rust` `Go`
 
 📱
-<img src="https://img.shields.io/badge/HUAWEI%20Mate%2080%20Pro-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/XIAOMI%2013-FD4900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/XIAOMI%2014-FD4900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/HUAWEI%20Mate%2080%20Pro-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 
 ---
 
