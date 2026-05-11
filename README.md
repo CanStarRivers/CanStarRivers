@@ -1,4 +1,4 @@
-# Hi there 👋 I'm CanStarRivers
+# Hi there 👋 I'm StarfallSeas
 
 **Android Kernel Developer | Xiaomi Device Maintainer | HyperFusion Project**
 
@@ -15,7 +15,7 @@ I develop and maintain custom Android kernels optimized for flagship Xiaomi devi
 ### 📱 Maintained Devices
 
 <p align="center">
-  <img src="https://github.com/CanStarRivers/CanStarRivers/blob/main/image/file_000000009cd8720bb94330da43ad9072.png" alt="Maintained Xiaomi Devices" width="100%" />
+  <img src="https://github.com/StarfallSeas/StarfallSeas/blob/main/image/file_000000009cd8720bb94330da43ad9072.png" alt="Maintained Xiaomi Devices" width="100%" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I develop and maintain custom Android kernels optimized for flagship Xiaomi devi
 ### 📫 Connect & Stay Updated
 
 * **Telegram Channel**: [HyperFusionProject](https://t.me/HyperFusionProject)
-* **GitHub**: [@CanStarRivers](https://github.com/CanStarRivers)
+* **GitHub**: [@StarfallSeas](https://github.com/StarfallSeas)
 
 ---
 
