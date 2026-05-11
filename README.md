@@ -2,7 +2,7 @@
 
 🇨🇳 China
 
-🧑‍💻 Interested in kernel.
+Interested in kernel.
 
 Languages: `C` `C++` `Rust` `Go`
 
@@ -15,15 +15,16 @@ Languages: `C` `C++` `Rust` `Go`
 
 <p align="center">
   <img height="180em" src="https://gh-stats.com/api?username=StarfallSeas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://gh-stats.com/api/top-langs?username=StarfallSeas&layout=compact&theme=radical&hide_border=true&langs_count=4&hide=html,css,javascript" />
 </p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=StarfallSeas&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StarfallSeas&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 📫 [Telegram](https://t.me/HyperFusionProject) · [GitHub](https://github.com/StarfallSeas)
-
-都加上emoji会更美观？
