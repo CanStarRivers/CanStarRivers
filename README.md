@@ -45,7 +45,7 @@
 🔗 **All my public kernels, tools, and experiments**  
 👉 [github.com/CanStarRivers?tab=repositories](https://github.com/CanStarRivers?tab=repositories)
 
-*My work revolves around kernel source trees for the devices I maintain, KernelSU integration, and utility scripts. Instead of guessing repo names, just explore the live list above – every repository there reflects what I’m actually working on.*
+*My work revolves around kernel source trees for the devices I maintain, KernelSU integration, and utility scripts. Explore the live list above – every repository there reflects what I’m actually working on.*
 
 ---
 
